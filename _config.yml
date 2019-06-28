@@ -12,7 +12,7 @@ github_repo: "https://github.com/biyilin1234/biyilin1234.github.io.git" # you co
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "我交朋友不管他有没有钱，反正都比我有钱"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/1.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
