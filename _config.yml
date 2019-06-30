@@ -1,7 +1,7 @@
 # Site settings
-title: (๑•॒̀ ູ॒•́๑)
-SEOTitle: 葬爱、忘了爱
-header-img: img/王祖贤.jpg
+title: 断桥枪心榨油厂，泡饭水果超市
+SEOTitle: 红色蒲公英
+header-img: img/post-bg-miui6.jpg
 email: 2212526859@qq.com
 description: "from failure comes the success"
 keyword: "唱,跳,rap,music,鸡太美"
@@ -19,7 +19,7 @@ sidebar-avatar: /img/1.jpg      # use absolute URL, seeing it's used in both `/`
 # SNS settings
 RSS: false
 # weibo_username:     qiubaiying
-zhihu_username:     lin-ha-ha-57
+#zhihu_username:     lin-ha-ha-57
 github_username:    biyilin1234
 #facebook_username:  baiying.qiu.7
 jianshu_username:   4decec342831
