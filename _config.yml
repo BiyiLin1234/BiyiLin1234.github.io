@@ -1,6 +1,6 @@
 # Site settings
-title: 断桥枪心榨油厂，泡饭水果超市
-SEOTitle: 红色蒲公英
+title: 回头看 不曾走远
+SEOTitle: 焚寂、
 header-img: img/post-bg-miui6.jpg
 email: 2212526859@qq.com
 description: "from failure comes the success"
@@ -99,16 +99,10 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "小游戏",
-        href: "http://4399.com"
+        title: "baidu",
+        href: "http://baidu.com"
     },{
         title: "简书·BY",
         href: "https://www.jianshu.com/u/4decec342831"
-    },{
-        title: "Apple",
-        href: "https://apple.com"
-    },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
     }
 ]
