@@ -7,7 +7,7 @@ author:     biyi
 header-img: img/1.jpg
 catalog: true
 tags:
-    - green hand
+    - hello world
 ---
 # this is a new blog
 - hello world
